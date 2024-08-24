@@ -51,3 +51,24 @@
 ![Microsoft Excel Pivot Tables With Formulas   Functions](https://github.com/user-attachments/assets/622b2ee6-6c3b-47b5-9888-0e87f0f530f6)
 
 ---
+
+-## **Tata Forage Certificate**
+![Tata Forage Certificate](https://github.com/user-attachments/assets/51d3c86d-db1d-4408-bb4d-e690e80ba70b)
+
+---
+
+-## **Introduction to Large Language Models**
+<img width="500" alt="Introduction to Large Language Models" src="https://github.com/user-attachments/assets/c0566c28-ff93-42ff-942d-fcce1325d176">
+
+---
+
+-## **Introduction to Responsible AI**
+![Introduction to Responsible AI](https://github.com/user-attachments/assets/1d5d8b99-1abb-4d45-b389-5b4cec3ffec9)
+
+---
+
+-## **IBM - Python for Data Science**
+![IBM - Python for Data Science](https://github.com/user-attachments/assets/887ec172-94a7-45c8-b4bd-a616f8bf55d3)
+
+---
+
