@@ -1,4 +1,8 @@
 # Certificates
+---
+
+- ## **Almabetter Full Stack Data Science**
+![Almabetter Full Stack Data Science](https://github.com/user-attachments/assets/90e287bb-5cf5-49b4-bef2-6fba105e27ee)
 
 ---
 
